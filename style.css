@@ -1,0 +1,33 @@
+body{
+
+}
+h1{
+	color:white; 
+	background-color:#575791;
+	font-size:80px;
+	margin:0px;
+	text-align:center;
+}
+h2{
+	color:white;
+	
+	font-size:25px;
+	margin:0px;
+	text-align:center;
+	text-transform: uppercase;
+    letter-spacing:5px;
+}
+p{
+   font-size:20px; 
+   color:#edd6d6;
+}
+div{
+	width:1000px; 
+	padding:50px; 
+	background-color:#323262;
+	margin:auto;
+	text-align:center;
+}
+img{	
+	width: 130px;
+}
